@@ -20,7 +20,7 @@
 - [ ] Explained how hours should be recorded and everyone have access to project in futuhours.
 - [ ] Expected scalability problems are documented.
 - [ ] Technology stack is documented in single place.
-- [ ]  
-- [ ]  
-- [ ]  
-- [ ]  
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
