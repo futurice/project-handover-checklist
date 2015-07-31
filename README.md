@@ -14,13 +14,13 @@ Handover in not a task and is not instant. Handover is always a project. And it 
 
 ### How to use
 
-It could be used in few ways:
+It could be used in physical or digital way:
 
 #### Physical
 
 Print lists on paper and check them when it is done.
 
-#### Digital
+#### Digital (fork)
 
 Fork this project and then edit source to mark completed issues with '[x]'
 E.g.
@@ -29,6 +29,9 @@ E.g.
 - [ ] ?????????
 - [ ] PROFIT!
 
+#### Digital (copy to issue tracker)
+
+Create project in issue tracker and add tasks.
 
 ### Checklists
 
