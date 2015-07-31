@@ -1,6 +1,16 @@
 # project-handover-checklist (DRAFT)
 
-List of checkboxes for IT project handoher
+## Handover
+
+When new people come to project, or especially people replaced in project for any reason, good handover should be made.
+Why?
+* Reduce handover time.
+* Make clear for us and customer how handover will affect schedules/communication/budget.
+* Reduce risks of post-handover work.
+* Ensure good confidence for new members.
+
+
+Handover in not a task and is not instant. Handover is always a project. And it should be planned and executed like a project.
 
 ### How to use
 
@@ -13,7 +23,7 @@ Print lists on paper and check them when it is done.
 #### Digital
 
 Fork this project and then edit source to mark completed issues with '[x]'
-E.g. 
+E.g.
 - [x] read this
 - [ ] fork project
 - [ ] ?????????
