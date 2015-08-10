@@ -37,7 +37,7 @@ Create project in issue tracker and add tasks.
 
 [Project handover](cl-project.md)
 
-[Code handover](cl-project.md)
+[Code handover](cl-code.md)
 
 [System handover](cl-system.md)
 
