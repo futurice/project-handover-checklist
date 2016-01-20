@@ -1,18 +1,18 @@
-# project-handover-checklist (DRAFT)
+# project-handover-checklist
 
 ## Handover
 
-When new people come to project, or especially people replaced in project for any reason, good handover should be made.
+When new people come to project, people replaced in project, or project moved to another team - good handover should be made.
 Why?
 * Reduce handover time.
-* Make clear for us and customer how handover will affect schedules/communication/budget.
+* Make clear for everyone how handover will affect schedules/communication/budget.
 * Reduce risks of post-handover work.
 * Ensure good confidence for new members.
 
 
 Handover in not a task and is not instant. Handover is always a project. And it should be planned and executed like a project.
 
-### How to use
+### How to use this template
 
 It could be used in physical or digital way:
 
