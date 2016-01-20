@@ -8,8 +8,4 @@
 - [ ] Monitoring is documented.
 - [ ] Support and Maintenance plans include clear steps for disasters.
 - [ ] List of previous problems exist in searchable format.
-- [ ] .
-- [ ] .
-- [ ] .
-- [ ] .
 
