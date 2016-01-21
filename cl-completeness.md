@@ -10,4 +10,4 @@ Go through list after 1 week of finished handover to check if it was succesfull.
 - [ ] No past communication channels were introduced (channels that were used in past, but not mentioned during handover).
 - [ ] All things that were not clear (mentioned earlier) were resolved.
 - [ ] All handover time is recorded.
-
+- [ ] Every new member is confident with the project. No? Ask Why.
