@@ -13,7 +13,8 @@
 - [ ] Development process description. E.g. how new feature implemented, tested, released and supported.
 - [ ] List of currently involved people and their roles (including contacts). RACI or similar table.
 - [ ] List of previously involved people and if it is ok to contact them.
-- [ ] All comminication channels are documented. Email groups, chats, repeat calls.
+- [ ] All comminication channels are documented. 
+- [ ] New members added to corresponding comminication channels: email lists, chats, repeat calls.
 - [ ] List of all change requests.
 - [ ] New members introduced to teams, clients, partners.
 - [ ] List of things that are not clear created.
@@ -21,4 +22,5 @@
 - [ ] Explained how hours should be recorded and everyone have access to project in futuhours.
 - [ ] Expected problems (scalability, security, etc) are documented.
 - [ ] Technology stack is documented in single place.
+
 
