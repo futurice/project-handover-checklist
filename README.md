@@ -14,7 +14,9 @@ Handover in not a task and is not instant. Handover is always a project. And it 
 
 ### How to use this template
 
-It could be used in physical or digital way:
+This is template that will work for most teams. In some cases some new checkboxes could be added or existing removed.
+
+Template could be used in physical or digital way:
 
 #### Physical
 
