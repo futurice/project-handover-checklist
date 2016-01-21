@@ -50,5 +50,5 @@ https://github.com/blog/1375%0A-task-lists-in-gfm-issues-pulls-comments
 
 ### License
 
-[Futurice Oy](http://www.futurice.com)
+[Futurice](http://www.futurice.com)
 Creative Commons Attribution 4.0 International (CC BY 4.0)
