@@ -10,9 +10,10 @@
 - [ ] List of what was delivered.
 - [ ] What was agreed with customer.
 - [ ] Clear tasks for next week.
-- [ ] Development process description. E.g. how new feature implemented tested released and supported.
+- [ ] Development process description. E.g. how new feature implemented, tested, released and supported.
 - [ ] List of currently involved people and their roles (including contacts). RACI or similar table.
 - [ ] List of previously involved people and if it is ok to contact them.
+- [ ] All comminication channels are documented. Email groups, chats, repeat calls.
 - [ ] List of all change requests.
 - [ ] New members introduced to teams, clients, partners.
 - [ ] List of things that are not clear created.
