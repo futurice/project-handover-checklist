@@ -2,29 +2,33 @@
 
 ## Handover
 
-When new people come to project, people replaced in project, or project moved to another team - good handover should be made.
-Why?
+When a new person joins a project, project members are changed, or project is moved to another team, a
+handover should be thoroughly planned and executed.
+
+### Why?
+
 * Reduce handover time.
 * Make clear for everyone how handover will affect schedules/communication/budget.
 * Reduce risks of post-handover work.
 * Ensure good confidence for new members.
 
-
-Handover in not a task and is not instant. Handover is always a project. And it should be planned and executed like a project. 
+Handover is not a task, and it is not instant. Handover is always a project. Therefore it should be planned
+and executed like a project.
 
 ### How to use this template
 
-This is template that will work for most teams. In some cases some new checkboxes could be added or existing removed.
+This template that will work for most teams. In some cases, new checkboxes may need to be added, or existing
+checkboxes removed.
 
-Template could be used in physical or digital way:
+This template can be used in a physical or digital way:
 
 #### Physical
 
-Print lists on paper and check them when they are done.
+Print lists on paper and check items off when they are done.
 
 #### Digital (fork)
 
-Fork this project and then edit source to mark completed issues with '[x]'
+Fork this project and edit the source to mark completed issues with '[x]'
 E.g.
 - [x] read this
 - [ ] fork project
@@ -33,7 +37,7 @@ E.g.
 
 #### Digital (copy to issue tracker)
 
-Create project in issue tracker and add tasks.
+Create a project in your chosen issue tracker and add tasks.
 
 ### Checklists
 
@@ -45,10 +49,9 @@ Create project in issue tracker and add tasks.
 
 [Handover completeness](cl-completeness.md) - Used to verify if handover was successful.
 
-
 ### Links
 
-https://github.com/blog/1375%0A-task-lists-in-gfm-issues-pulls-comments
+[Using task lists in GitHub-flavored markdown](https://github.com/blog/1375%0A-task-lists-in-gfm-issues-pulls-comments)
 
 ### License
 
